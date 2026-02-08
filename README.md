@@ -57,7 +57,7 @@ The analysis includes demographic trends such as gender, age group, marital stat
 ## 🚀 How to Run the Project
 
 1. Clone this repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/faisalshahzad/sales-analysis.git
 
 2. Install required libraries
 pip install pandas numpy matplotlib seaborn
