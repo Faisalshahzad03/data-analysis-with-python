@@ -57,8 +57,8 @@ The analysis includes demographic trends such as gender, age group, marital stat
 ## 🚀 How to Run the Project
 
 1. Clone this repository
-git clone https://github.com/faisalshahzad/sales-analysis.git
-
+git clone [https://github.com/faisalshahzad/sales-analysis.git
+](https://github.com/Faisalshahzad03/data-analysis-with-python/blob/main/Sales%20%20project%20.ipynb)
 2. Install required libraries
 pip install pandas numpy matplotlib seaborn
 
@@ -72,6 +72,8 @@ jupyter notebook
 ## 👨‍💻 Author
 Faisal Shahzad  
 Python Data Analytics Project
+📧 Email: **faisal843210@gmail.com**  
+🔗 LinkedIn: [linkedin.com/in/faisal-analyst](https://www.linkedin.com/in/faisal-analyst/)
 
 ---
 
