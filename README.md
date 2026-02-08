@@ -72,6 +72,7 @@ jupyter notebook
 ## 👨‍💻 Author
 Faisal Shahzad  
 Python Data Analytics Project
+
 📧 Email: **faisal843210@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/faisal-analyst](https://www.linkedin.com/in/faisal-analyst/)
 
