@@ -22,7 +22,9 @@ The goal is to analyze demographic factors such as **gender, age group, marital 
 ### 🔗 Project File
 
 Notebook:
+
 https://github.com/Faisalshahzad03/data-analysis-with-python/blob/main/Sales%20%20project%20.ipynb
+
 ---
 
 ### 🎯 Objectives
